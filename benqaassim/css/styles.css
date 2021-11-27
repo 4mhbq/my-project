@@ -1,18 +1,11 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #0b1d6c;/* change this to #0b1d6c */
+	background: #000;/* change this to #0b1d6c */
 }
 
-#header-nav {
-	background-color: #fff ; /* change this to #5172ff */
-	border-radius: 0;
-	border: 0;
+/*==== page header ====*/
+ul {
+	border-bottom: 1px solid #0b1d6c;
 }
 
-#logo-img {
-	background: green;
-	width: 100px;
-	height: 100px;
-	margin: 10px 15px 10px 0;
-}
